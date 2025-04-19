@@ -1,0 +1,36 @@
+{
+    "name": "英文單字學習",
+    "short_name": "單字學習",
+    "description": "個人英文單字學習與複習應用",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4a90e2",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "images/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "lang": "zh-TW",
+    "dir": "ltr",
+    "categories": ["education", "productivity"],
+    "screenshots": [
+        {
+            "src": "images/screenshot-1.jpg",
+            "type": "image/jpeg",
+            "sizes": "1080x1920"
+        }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": false
+} 

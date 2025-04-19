@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="512" height="512" rx="128" fill="#4a90e2"/>
+  
+  <!-- 書本形狀 -->
+  <path d="M128 128 L384 128 L384 384 L128 384 Z" fill="white" stroke="#333" stroke-width="8"/>
+  
+  <!-- 書頁效果 -->
+  <path d="M140 140 L372 140 L372 372 L140 372 Z" fill="#f5f5f5"/>
+  
+  <!-- 字母 A -->
+  <path d="M180 290 L210 190 L240 290 M190 250 L230 250" fill="none" stroke="#ef5350" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 字母 B -->
+  <path d="M260 190 L260 290 M260 190 C300 190 300 230 260 230 M260 230 C310 230 310 290 260 290" fill="none" stroke="#66bb6a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 字母 C -->
+  <path d="M330 210 C310 190 290 210 290 240 C290 270 310 290 330 270" fill="none" stroke="#ffa726" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 繁體中文字 "字" -->
+  <path d="M256 310 L310 310 M230 300 L280 300 M250 300 L250 340" fill="none" stroke="#333" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 
